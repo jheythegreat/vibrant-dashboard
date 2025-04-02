@@ -2,6 +2,8 @@
 
 Vibrant Dashboard is a modern and visually attractive dashboard application built with the latest web technologies, including TypeScript, React, Vite, and Tailwind CSS. This project is designed to provide a smooth and highly configurable user experience.
 
+![Image](https://github.com/user-attachments/assets/3a4cc29a-5e1d-43a6-a81c-e885cdcab9e1)
+
 ## Technologies
 
 - **TypeScript**: Used to ensure safer and more predictable code.
